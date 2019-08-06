@@ -1,0 +1,56 @@
+button {
+  background-color: #67eaca;
+  color: #484848;
+  border-radius: 15px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 10px;
+  margin-left: 10px;
+
+  padding: 15px 25px;
+  cursor: pointer;
+  box-shadow: 0 9px #999;
+
+}
+button:hover {
+  background-color: #12d3cf
+}
+button:active {
+  background-color: #12d3cf;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+body {
+    background-color: #fff;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    -webkit-font-smoothing: antialiased;
+
+}
+
+h2 {
+	color: #1D4E89;
+  font-size: 32px;
+  font-weight: 800;
+  
+}
+
+h3 {
+	color: #008489;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+p {
+	font-size: 25px;
+	font-weight: 400;
+	display: inline-block;
+  color: #484848;
+}
+
+.main {
+  margin-left: 50px;
+  width: 58%;
+}
